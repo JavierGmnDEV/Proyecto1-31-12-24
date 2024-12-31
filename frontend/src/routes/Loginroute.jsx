@@ -132,7 +132,7 @@ const dispatch = useDispatch()
 
           <div>
             <label htmlFor="contrasenia" className="block text-sm font-medium">
-              Contraseña
+              Contraseñan
             </label>
             <div className="mt-2">
               <Input
