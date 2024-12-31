@@ -1,0 +1,8 @@
+
+.background-image-blue {
+  background-image: url('./fondo.jpg.png'); /* Ruta correcta a la imagen */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 95vh; /* Para que ocupe toda la altura de la ventana */
+}
